@@ -12,7 +12,7 @@ p {
   margin-left: 10px;
 }
 
-#content, #lab3summary {
+#content {
     background-color: #6471cf;
     width: 500px;
     min-height: 300px;
@@ -21,6 +21,15 @@ p {
     border: solid 1px #;
     font-size: 20px;
 }
+#lab3summary {
+    background-color: #6471cf;
+    width: 500px;
+    min-height: 300px;
+    padding: 10px;
+    margin: 10px;
+    border: solid 1px #;
+    font-size: 20px;
+  }
 #vesper {
   width: 220px;
 }
