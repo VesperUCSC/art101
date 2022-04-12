@@ -12,7 +12,7 @@ p {
   margin-left: 10px;
 }
 
-#content {
+#content, #lab3summary {
     background-color: #6471cf;
     width: 500px;
     min-height: 300px;
